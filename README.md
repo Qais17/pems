@@ -1,7 +1,7 @@
 # Prise en main
 
 ### Auteur :
-BECERRA Mathieu
+Amini Qais
 
 ### Description :
 > Nous avons créer plusieurs pages avec les routes adequates.
